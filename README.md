@@ -1,4 +1,4 @@
-## Hi Everyone. This is LanMao 👋
+## Hi Everyone. This is TrueNine 👋
 
 <!--
 **LanXa7/LanXa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
