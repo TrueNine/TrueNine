@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,kotlin,go,rust,html,css,nodejs,vue,nuxtjs,tailwind,react,dotnet,csharp,spring,postgres,redis,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ts,java,js,go,rust,html,css,nodejs,vue,nuxtjs,tailwind,react,dotnet,spring,postgres,redis,mongodb,docker,jetpack,dart)](https://skillicons.dev)
 
 一起成为好朋友吧！
