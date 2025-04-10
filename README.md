@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,ts,java,gradle,idea,js,go,rust,wasm,cs,dart,selenium,html,css,nodejs,vue,vuetify,vscode,nuxtjs,pinia,pnpm,flutter,tailwind,react,vite,vitest,rollupjs,electron,ubuntu,dotnet,spring,postgres,redis,mongodb,docker,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,ts,java,gradle,idea,js,go,rust,wasm,cs,dart,selenium,html,css,nodejs,vue,vuetify,vscode,nuxtjs,pinia,pnpm,flutter,tailwind,react,vite,vitest,rollupjs,electron,ubuntu,dotnet,spring,postgres,redis,mongodb,docker,androidstudio)](https://skillicons.dev)
 
 一起成为好朋友吧！
