@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## i like programing languages
+![Programing_Languages](https://skillicons.dev/icons?i=kotlin,ts,java,go,rust,cs,dart,html,css,vue,tailwind,react)
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,ts,java,gradle,idea,js,go,rust,wasm,cs,dart,selenium,html,css,nodejs,vue,vuetify,vscode,nuxtjs,pinia,pnpm,flutter,tailwind,react,vite,vitest,rollupjs,electron,ubuntu,dotnet,spring,postgres,redis,mongodb,docker,androidstudio)](https://skillicons.dev)
+## i like coding editor
+![My Skills](https://skillicons.dev/icons?i=idea,vscode,ubuntu,windows,docker,androidstudio)
+
+## i like build tools
+![My Skills](https://skillicons.dev/icons?i=gradle,idea,js,go,rust,wasm,cs,dart,selenium,html,css,nodejs,vue,vuetify,vscode,nuxtjs,pinia,pnpm,flutter,tailwind,react,vite,vitest,rollupjs,electron,ubuntu,dotnet,spring,postgres,redis,mongodb,docker,androidstudio)
+
+
 
 一起成为好朋友吧！
