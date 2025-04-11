@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## contact information
+[![Programing_Languages](https://skillicons.dev/icons?i=github)](https://github.com/TrueNine)
+- Gmail: truenine304520@gmail.com
+- QQ: 2394997288
+- Wechat: zhenjiu304520
+- Phone: +86 18677192235
+
 ## i like programing languages
 ![Programing_Languages](https://skillicons.dev/icons?i=kotlin,ts,java,go,rust,cs,dart,html,css,sass,tailwind,vue,react,md)
 
@@ -21,7 +28,7 @@ Here are some ideas to get you started:
 ![My Skills](https://skillicons.dev/icons?i=idea,webstorm,vscode,rider,ubuntu,windows,docker,androidstudio,eclipse)
 
 ## i like build tools
-![My Skills](https://skillicons.dev/icons?i=gradle,pnpm,npm,vite,vitest,rollupjs,maven,git,github)
+![My Skills](https://skillicons.dev/icons?i=gradle,pnpm,npm,vite,vitest,rollupjs,maven,git)
 
 ## i like frameworks
 ![My Skills](https://skillicons.dev/icons?i=spring,dotnet,nodejs,wasm,selenium,vuetify,nuxtjs,pinia,flutter,electron,dotnet)
