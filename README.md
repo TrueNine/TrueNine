@@ -15,14 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## i like programing languages
-![Programing_Languages](https://skillicons.dev/icons?i=kotlin,ts,java,go,rust,cs,dart,html,css,vue,tailwind,react)
+![Programing_Languages](https://skillicons.dev/icons?i=kotlin,ts,java,go,rust,cs,dart,html,css,sass,tailwind,vue,react,md)
 
 ## i like coding editor
-![My Skills](https://skillicons.dev/icons?i=idea,vscode,ubuntu,windows,docker,androidstudio)
+![My Skills](https://skillicons.dev/icons?i=idea,webstorm,vscode,rider,ubuntu,windows,docker,androidstudio,eclipse)
 
 ## i like build tools
-![My Skills](https://skillicons.dev/icons?i=gradle,idea,js,go,rust,wasm,cs,dart,selenium,html,css,nodejs,vue,vuetify,vscode,nuxtjs,pinia,pnpm,flutter,tailwind,react,vite,vitest,rollupjs,electron,ubuntu,dotnet,spring,postgres,redis,mongodb,docker,androidstudio)
+![My Skills](https://skillicons.dev/icons?i=gradle,pnpm,npm,vite,vitest,rollupjs,maven,git,github)
 
+## i like frameworks
+![My Skills](https://skillicons.dev/icons?i=spring,dotnet,nodejs,wasm,selenium,vuetify,nuxtjs,pinia,flutter,electron,dotnet)
 
+## i like databases
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,elasticsearch,cassandra)
 
 一起成为好朋友吧！
