@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![My Skills](https://skillicons.dev/icons?i=gradle,pnpm,npm,vite,vitest,rollupjs,maven,git)
 
 ## i like frameworks
-![My Skills](https://skillicons.dev/icons?i=spring,dotnet,nodejs,wasm,selenium,vuetify,nuxtjs,pinia,flutter,electron,dotnet)
+![My Skills](https://skillicons.dev/icons?i=spring,dotnet,nodejs,wasm,selenium,vuetify,nuxtjs,pinia,flutter,electron)
 
 ## i like databases
 ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,elasticsearch,cassandra)
