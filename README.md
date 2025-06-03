@@ -52,6 +52,7 @@
 - bilibili：[b站个人空间](https://space.bilibili.com/405842500)
 - bilibili 直播：[b站直播](https://live.bilibili.com/21618217)
 - 抖音：[抖音个人空间](https://www.douyin.com/user/MS4wLjABAAAAdpb0k7qlIy68EAuOHZU5lUVVVTUeIml2FFVxxv4BSb3t2_Bto_M74pkaM1fetD0e)
+- qq交流群：340813464
 
 
 # 我需要你们的帮助
