@@ -18,8 +18,9 @@
 
 ## 它们或许能够帮助到您
 
-- [compose-server](https://github.com/TrueNine/compose-server)
-- [compose-client](https://github.com/TrueNine/compose-client)
+- [compose-server](https://github.com/TrueNine/compose-server) 我所维护的 kotlin spring 后端开发工具包
+- [compose-client](https://github.com/TrueNine/compose-client) 我所维护的 前端 工具包
+- [yan100-life-server](https://github.com/TrueNine/compose-client) 我维护的 一个生活类 ddd 公众号后端项目
 
 ## 我使用的编程语言
 ![Programing_Languages](https://skillicons.dev/icons?i=kotlin,ts,java,go,rust,cs,dart,html,css,sass,tailwind,vue,react,md)
