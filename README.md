@@ -90,22 +90,11 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
 
-# ❤️ 它们帮到了我，也许对你也有帮助
+## 🙏 致谢与帮助
 
-## 🔍 无障碍技术工具
+感谢所有在我编程路上给予帮助的人们和工具。详细的致谢名单请查看：
 
-| 工具 | 平台 | 描述 |
-|------|------|------|
-| [**NVDA 屏幕阅读器**](https://github.com/nvaccess/nvda) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) | Windows 上最出色的屏幕阅读器，如果您身边有视力障碍者，请帮忙推荐给他或她 |
-| **屏幕放大镜** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) | 我的日常开发助手，帮助我克服视觉障碍，进行日常编程工作 |
-
-## 📚 学习与开发平台
-
-| 平台 | 用途 | 描述 |
-|------|------|------|
-| [**Bilibili**](https://bilibili.com) | ![Learning](https://img.shields.io/badge/Learning-00A1D6?style=flat&logo=bilibili&logoColor=white) | 我从此处学会了很多技能以及知识 |
-| [**GitHub**](https://github.com/) | ![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white) | 我在此保存以及维护项目 |
-| [**Jimmer ORM**](https://github.com/babyfish-ct/jimmer) | ![JVM](https://img.shields.io/badge/JVM-ED8B00?style=flat&logo=openjdk&logoColor=white) | 我使用的最好用的 JVM ORM 框架 |
+📖 **[完整致谢名单 →](./ACKNOWLEDGMENTS.md)**
 
 ---
 
