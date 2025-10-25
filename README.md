@@ -65,14 +65,4 @@
   <img src="https://komarev.com/ghpvc/?username=TrueNine&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
 
-## 📞 我的联系方式
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TrueNine)
-[![QQ群](https://img.shields.io/badge/QQ交流群-340813464-EB1923?style=flat-square&logo=tencent-qq&logoColor=white)](https://qm.qq.com/q/VFVVyFxMhJ)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/405842500)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:truenine304520@gmail.com)
-
-</div>
 
