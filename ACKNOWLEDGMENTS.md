@@ -10,6 +10,10 @@
 - **我的朋友们** - 感谢你们一直以来的支持和鼓励，让我有动力继续前行
 - **技术社区的前辈们** - 在我遇到困难时给予的耐心指导和建议
 
+### 💎 捐助者
+- **[one-eyed-fish](https://github.com/one-eyed-fish)** - tdd-skill / Codex Skills 作者，感谢你的捐助和对 TDD 理念的支持
+- **[zjarlin](https://github.com/zjarlin)**
+
 ### 🌟 开源项目与社区
 感谢以下开源项目和社区，它们为我的学习和开发提供了巨大帮助：
 
@@ -18,6 +22,7 @@
 - **[Spring Framework](https://spring.io/)** - 强大的 Java 开发框架
 - **[Vue.js](https://vuejs.org/)** - 优雅的前端框架
 - **[Kotlin](https://kotlinlang.org/)** - 现代化的 JVM 语言
+- **[tdd-skill](https://github.com/one-eyed-fish/tdd-skill)** - Codex Skills 工作集，TDD/重构/Spring 边界守护规则
 
 #### 🔍 无障碍技术支持
 - **[NVDA 屏幕阅读器](https://github.com/nvaccess/nvda)** - 让视力障碍者也能自由编程的神器
