@@ -1,75 +1,72 @@
-## TrueNine
-
-<div align="center"><img src="./personal_photo.jpeg" alt="TrueNine" width="150" /></div>
-
 <div align="center">
 
-**赵日天** · Visually Impaired Developer · Full Stack · Open Source Advocate
+<img src="./personal_photo.jpeg" alt="Portrait of TrueNine" width="144" />
 
-*"From open source, give back to open source"*
+# TrueNine · 赵日天
+
+**Visually impaired developer building accessible, maintainable open-source software.**
+
+Kotlin & Spring · TypeScript & Vue · Rust & Tauri
+
+*From open source, give back to open source.*
+
+[Projects](#featured-projects) · [What I care about](#what-i-care-about) · [Supporters](#supporters)
 
 </div>
 
----
+## Hello
 
-### 🧑‍💻 About Me
+I'm TrueNine, a full-stack developer from China. I use NVDA and Windows Magnifier in my daily work to write code, design systems, review changes, and maintain open-source projects.
 
-I'm 赵日天 (TrueNine), a visually impaired developer. With NVDA screen reader and Windows Magnifier, I write code, design architecture, and contribute to open source just like sighted developers do.
+For me, accessibility is not a slogan or a special mode added at the end. It is part of good engineering: clear interfaces, predictable behavior, useful feedback, and tools that work for more people.
 
-I believe tech accessibility shouldn't just be a slogan — it needs to be proven viable. I prove it every day.
+Right now, I focus on reusable developer tooling, AI-assisted engineering workflows, and practical ways to make software easier to build and use.
 
-- 🔭 Primarily **Kotlin** (Spring Boot / Ktor) and **TypeScript** (Vue / Nuxt)
-- 🦀 Also writing **Rust**, gradually diving into systems programming
-- 🤖 Heavy user of AI coding tools (Claude Code, Codex, Cursor, Hermes Agent)
-- 🧪 TDD and clean architecture believer — no hacky code
-- 💸 Extremely cost-conscious — tokens are money, every single one must count
+## Featured projects
 
----
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [memory-sync](https://github.com/TrueNine/memory-sync) | Keeps one set of AI coding rules synchronized across multiple tools, with both a CLI and desktop app. | Rust, Tauri, TypeScript |
+| [compose-server](https://github.com/TrueNine/compose-server) | Provides reusable backend components for Kotlin and Spring applications. | Kotlin, Spring Boot |
+| [compose-client](https://github.com/TrueNine/compose-client) | Collects reusable frontend tooling and components for modern web applications. | TypeScript, Vue |
 
-### 📦 Projects
+## What I care about
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [compose-server](https://github.com/TrueNine/compose-server) | Kotlin backend framework, reusable Spring Boot components | Kotlin · Spring Boot |
-| [compose-client](https://github.com/TrueNine/compose-client) | Frontend toolkit, reusable Vue components | TypeScript · Vue |
-| [memory-sync](https://github.com/TrueNine/memory-sync) | Cross-AI-tool prompt sync toolkit (CLI + Tauri GUI) | Rust · Tauri · TypeScript |
+- **Accessibility by default** — software should remain understandable and operable with assistive technology.
+- **Maintainable systems** — strong boundaries, explicit contracts, and code that survives beyond the first release.
+- **Test-driven development** — feedback should arrive early, before mistakes become architecture.
+- **Practical AI workflows** — AI should improve engineering judgment, not replace it.
+- **Sustainable open source** — shared tools get better when knowledge and improvements flow back to the community.
 
----
+## Toolbox
 
-### 🛠 Tech Stack
-
-```
-Backend   Kotlin · Spring Boot · Ktor · PostgreSQL · Redis · Docker
-Frontend  TypeScript · Vue · Nuxt · UnoCSS · Vite
-System    Rust · Tauri
-AI        Claude Code · Codex · Cursor · Hermes Agent · OpenCode
-Tools     IntelliJ IDEA · VS Code · Gradle · Git
+```text
+Backend    Kotlin · Spring Boot · Ktor · PostgreSQL · Redis
+Frontend   TypeScript · Vue · Nuxt · UnoCSS · Vite
+Desktop    Rust · Tauri
+Workflow   TDD · Clean Architecture · Git · Docker · Gradle
+AI tools   Codex · Claude Code · Cursor · Hermes Agent · OpenCode
 ```
 
----
+## Supporters
 
-### 💎 Supporters
+Thank you to everyone who supports my open-source work and helps me keep moving forward.
 
-Thank you to every supporter — your encouragement keeps me going.
+### 2026
 
-- [one-eyed-fish](https://github.com/one-eyed-fish) — tdd-skill / Codex Skills author
+- [one-eyed-fish](https://github.com/one-eyed-fish) — author of tdd-skill and Codex Skills
 - [zjarlin](https://github.com/zjarlin)
 
-➡ [Full list](SUPPORTERS.md)
+If you would like to support my work, you can make a donation through [Alipay](alipay_qrcode.jpg). Every contribution is sincerely appreciated.
 
----
+## Let's connect
 
-### 📊
+I'm always happy to discuss software architecture, developer tooling, open source, and accessibility. The best way to reach me is through the issues and discussions in the relevant repository.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrueNine&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueNine&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="49%" />
-</div>
-
----
+You can also read the broader [acknowledgments](ACKNOWLEDGMENTS.md) for the people, communities, and projects that have helped me along the way.
 
 <div align="center">
 
-**Thanks for stopping by. Feel free to chat about tech, architecture, or accessibility.**
+**Build thoughtfully. Share openly. Leave the path more accessible than you found it.**
 
 </div>
