@@ -2,15 +2,15 @@
 
 <img src="./personal_photo.jpeg" alt="Portrait of TrueNine" width="144" />
 
-# TrueNine · 赵日天
+# TrueNine
 
 **Visually impaired developer building accessible, maintainable open-source software.**
 
-Kotlin & Spring · TypeScript & Vue · Rust & Tauri
+Kotlin & Spring | TypeScript & Vue | Rust & Tauri
 
 *From open source, give back to open source.*
 
-[Projects](#featured-projects) · [What I care about](#what-i-care-about) · [Supporters](#supporters)
+[Projects](#featured-projects) | [What I care about](#what-i-care-about) | [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -32,38 +32,62 @@ Right now, I focus on reusable developer tooling, AI-assisted engineering workfl
 
 ## What I care about
 
-- **Accessibility by default** — software should remain understandable and operable with assistive technology.
-- **Maintainable systems** — strong boundaries, explicit contracts, and code that survives beyond the first release.
-- **Test-driven development** — feedback should arrive early, before mistakes become architecture.
-- **Practical AI workflows** — AI should improve engineering judgment, not replace it.
-- **Sustainable open source** — shared tools get better when knowledge and improvements flow back to the community.
+- **Accessibility by default** - software should remain understandable and operable with assistive technology.
+- **Maintainable systems** - strong boundaries, explicit contracts, and code that survives beyond the first release.
+- **Test-driven development** - feedback should arrive early, before mistakes become architecture.
+- **Practical AI workflows** - AI should improve engineering judgment, not replace it.
+- **Sustainable open source** - shared tools get better when knowledge and improvements flow back to the community.
 
 ## Toolbox
 
 ```text
-Backend    Kotlin · Spring Boot · Ktor · PostgreSQL · Redis
-Frontend   TypeScript · Vue · Nuxt · UnoCSS · Vite
-Desktop    Rust · Tauri
-Workflow   TDD · Clean Architecture · Git · Docker · Gradle
-AI tools   Codex · Claude Code · Cursor · Hermes Agent · OpenCode
+Backend    Kotlin | Spring Boot | Ktor | PostgreSQL | Redis
+Frontend   TypeScript | Vue | Nuxt | UnoCSS | Vite
+Desktop    Rust | Tauri
+Workflow   TDD | Clean Architecture | Git | Docker | Gradle
+AI tools   Codex | Claude Code | Cursor | Hermes Agent | OpenCode
 ```
 
-## Supporters
+## Acknowledgments
 
-Thank you to everyone who supports my open-source work and helps me keep moving forward.
+No open-source journey is a solo effort. I am grateful to the friends, mentors, developers, and communities whose encouragement, guidance, and work have helped me keep learning and building.
 
-### 2026
+### Supporters
 
-- [one-eyed-fish](https://github.com/one-eyed-fish) — author of tdd-skill and Codex Skills
+- [one-eyed-fish](https://github.com/one-eyed-fish), author of [tdd-skill](https://github.com/one-eyed-fish/tdd-skill) and Codex Skills, for supporting my work and sharing a strong approach to TDD
 - [zjarlin](https://github.com/zjarlin)
+- [LiTeXz](https://github.com/LiTeXz)
+- [WhoFish0015](https://github.com/WhoFish0015)
 
 If you would like to support my work, you can make a donation through [Alipay](alipay_qrcode.jpg). Every contribution is sincerely appreciated.
+
+### Open-source projects and communities
+
+My work has benefited greatly from the people behind these projects and platforms:
+
+- [Jimmer ORM](https://github.com/babyfish-ct/jimmer)
+- [Spring Framework](https://spring.io/)
+- [Vue.js](https://vuejs.org/)
+- [Kotlin](https://kotlinlang.org/)
+- [NVDA](https://github.com/nvaccess/nvda)
+- [GitHub](https://github.com/)
+- [Bilibili](https://bilibili.com/)
+
+I also appreciate JetBrains, Microsoft, Google, technical writers, educators, documentation maintainers, and cloud service providers whose tools and resources make independent development possible.
+
+### Accessibility community
+
+Special thanks go to the people and organizations advancing accessible technology, advocating for disabled people, and helping more people participate in the technology industry. NVDA, Windows Magnifier, accessibility researchers, volunteers, and advocates are essential to my daily work and to a more inclusive software community.
+
+### Contributors
+
+Thank you to everyone who reports bugs, suggests features, improves documentation, submits pull requests, joins technical discussions, or shares my projects. Every contribution helps make the work more useful and sustainable.
+
+To contribute, open an issue or pull request in the relevant repository. Stars, thoughtful feedback, documentation improvements, and project recommendations are equally welcome.
 
 ## Let's connect
 
 I'm always happy to discuss software architecture, developer tooling, open source, and accessibility. The best way to reach me is through the issues and discussions in the relevant repository.
-
-You can also read the broader [acknowledgments](ACKNOWLEDGMENTS.md) for the people, communities, and projects that have helped me along the way.
 
 <div align="center">
 
