@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./personal_photo.jpeg" alt="Portrait of TrueNine" width="144" />
+<img src="./.assets/personal_photo.jpeg" alt="Portrait of TrueNine" width="144" />
 
 # TrueNine
 
@@ -59,7 +59,7 @@ No open-source journey is a solo effort. I am grateful to the friends, mentors, 
 - [LiTeXz](https://github.com/LiTeXz)
 - [WhoFish0015](https://github.com/WhoFish0015)
 
-If you would like to support my work, you can make a donation through [Alipay](alipay_qrcode.jpg). Every contribution is sincerely appreciated.
+If you would like to support my work, you can make a donation through [Alipay](.assets/alipay_qrcode.jpg). Every contribution is sincerely appreciated.
 
 ### Open-source projects and communities
 
