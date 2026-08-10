@@ -20,3 +20,6 @@ Gemfile.lock
 .factory/
 AGENTS.md
 CLAUDE.md
+
+.codex/**
+docs/superpowers/**
