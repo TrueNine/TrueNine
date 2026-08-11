@@ -89,6 +89,8 @@ To contribute, open an issue or pull request in the relevant repository. Stars, 
 
 I'm always happy to discuss software architecture, developer tooling, open source, and accessibility. The best way to reach me is through the issues and discussions in the relevant repository.
 
+You can also find my published packages on [npm](https://www.npmjs.com/~falsezero) and [Maven Central](https://central.sonatype.com/namespace/io.github.truenine) ([org.truenine](https://central.sonatype.com/namespace/org.truenine)).
+
 <div align="center">
 
 **Build thoughtfully. Share openly. Leave the path more accessible than you found it.**
