@@ -26,10 +26,10 @@ Right now, I focus on reusable developer tooling, AI-assisted engineering workfl
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [memory-sync](https://github.com/TrueNine/memory-sync) | Keeps one set of AI coding rules synchronized across multiple tools, with both a CLI and desktop app. | Rust, Tauri, TypeScript |
+| [croessweave](https://github.com/TrueNine/croessweave) | Weaves one set of AI coding rules across multiple tools, with both a CLI and desktop app. | Rust, Tauri, TypeScript |
 | [alux](https://github.com/TrueNine/alux) | Shares skills, hooks, and workflow integrations across AI coding agents. | Bun, Agent plugins |
-| [tnmsop](https://github.com/TrueNine/tnmsop) | Safely renders prompt-focused MDX files as native Markdown notes in Obsidian. | TypeScript, Obsidian |
-| [DevopsFlow](https://github.com/LiTeXz/devopsflow) | Provides composable engineering workflows and an agent harness for planning, implementation, verification, and release. | Codex, OpenCode, TypeScript |
+| [croessweave-obsidian-plugin](https://github.com/TrueNine/croessweave-obsidian-plugin) | Safely renders prompt-focused MDX files as native Markdown notes in Obsidian. | TypeScript, Obsidian |
+| [devopsflow](https://github.com/LiTeXz/devopsflow) | Provides composable engineering workflows and an agent harness for planning, implementation, verification, and release. | Codex, OpenCode, TypeScript |
 | [compose-server](https://github.com/TrueNine/compose-server) | Provides reusable backend components for Kotlin and Spring applications. | Kotlin, Spring Boot |
 | [compose-client](https://github.com/TrueNine/compose-client) | Collects reusable frontend tooling and components for modern web applications. | TypeScript, Vue |
 
