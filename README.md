@@ -58,6 +58,7 @@ No open-source journey is a solo effort. I am grateful to the friends, mentors, 
 - [zjarlin](https://github.com/zjarlin)
 - [LiTeXz](https://github.com/LiTeXz)
 - [WhoFish0015](https://github.com/WhoFish0015)
+- [ZhanZiyuan](https://github.com/ZhanZiyuan) ([everydayworld@foxmail.com](mailto:everydayworld@foxmail.com))
 
 If you would like to support my work, you can make a donation through [Alipay](./.assets/alipay_qrcode.jpg). Every contribution is sincerely appreciated.
 
